@@ -1,0 +1,28 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Barlow', sans-serif;
+}
+
+.navigation_content {
+    display: flex;
+    justify-content: space-between;
+    width: 1110px;
+    margin: 45px auto;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+}
+
+.nav_button {
+    width: 175px;
+    height: 58px;
+    font-weight: 600;
+    font-size: 16px;
+    background-color: #E8EFF2;
+    color: #162542;
+    border: 1px solid #E8EFF2;
+    border-radius: 10px;
+}
